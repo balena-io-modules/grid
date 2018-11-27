@@ -1,3 +1,6 @@
+**This repo is forked from v3.1.1 of https://github.com/rebassjs/grid. It has
+been modified to restrict the `styled-components` dependency to v3.x and is used
+by https://github.com/balena-io-modules/rendition**
 
 # Grid Styled
 

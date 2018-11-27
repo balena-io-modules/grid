@@ -1,5 +1,5 @@
 {
-  "name": "grid-styled",
+  "name": "@balena/grid-styled",
   "version": "3.1.1",
   "description": "Responsive React grid system built with styled-components",
   "main": "dist/index.js",
@@ -42,7 +42,7 @@
     "repng": "^2.0.0-alpha.1"
   },
   "dependencies": {
-    "styled-components": ">=2.0 || >=3.0",
+    "styled-components": "3.x",
     "styled-system": "^1.1.1"
   },
   "ava": {
